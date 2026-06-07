@@ -22,6 +22,8 @@ If you're not inclined to make PRs you can tweet me at [@rocardho](https://twitt
 
 ## <a name="C"> </a>C
 
+* [CamerPay PHP SDK](https://github.com/camerpay/php-sdk) - Official PHP SDK for the CamerPay payment gateway. Accept Mobile Money (Orange Money, MTN MoMo), credit cards and PayPal in your PHP applications. **By [CamerPay](https://camerpay.biz)**
+
 * [Cyclop](https://github.com/Sanix-Darker/cyclop) - Real-time output of your program (ONLY IN SHELL, no program, no Lib, no Package required to use it). **By [@sanixdarker](https://twitter.com/sanixdarker)**
 
 ## <a name="D"> </a>D
